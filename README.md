@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adithya P Binu</h1>
 <h3 align="center">React & React Native Developer | Building toward ML Engineering</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithya59" alt="adithya59" /></a> </p>
-
-
 ---
  
 ### About Me
@@ -39,11 +36,10 @@
 ---
 
 ### GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithya59&show_icons=true&locale=en&layout=compact" alt="adithya59" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithya59&show_icons=true&locale=en" alt="adithya59" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya59&" alt="adithya59" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username" height="165" />
+</p>
 
 ---
 
